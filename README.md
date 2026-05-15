@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Maipa Ly 👋
 
-<!--
-**iinkednoodlez/iinkednoodlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student learning:
+- Web Development
+- Cloud Computing
+- Databases
+- GitHub and Version Control
 
-Here are some ideas to get you started:
+## Technologies
+- JavaScript
+- ReactJS
+- NodeJS
+- ExpressJS
+- MySQL
+- AWS
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- React Portfolio Website
+- NodeJS TODO API
+- SQL Boardgame Analysis
+- AWS Coursework Projects
+
+## Goals
+- Improve my frontend and backend skills
+- Learn more about cloud development
+- Build a professional portfolio
