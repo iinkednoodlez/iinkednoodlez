@@ -1,4 +1,4 @@
-# Hi, I'm Maipa Ly 👋
+# Hi, I'm Maipa 👋
 
 ## About Me
 I'm a student learning:
